@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "travel-request-form-client-side-solution",
+    "id": "41c6eae3-045e-4cad-a8a6-226abcaa1900",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/travel-request-form.sppkg"
+  }
+}

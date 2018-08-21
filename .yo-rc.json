@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "travel-request-form",
+    "libraryId": "41c6eae3-045e-4cad-a8a6-226abcaa1900",
+    "environment": "spo"
+  }
+}
